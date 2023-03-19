@@ -2,6 +2,8 @@
 
 A worldspace 2D grid shader whose cells are selectable by mouse click.
 
+Unity Version: 2021.3.20f1c1
+
 ## Showcase
 
 <img title = "world_space_grid" src = "./Showcase/world_space_grid.gif" width="256">
